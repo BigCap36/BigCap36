@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stoner Dating App</title>
+    <!-- Add your CSS link here for styling -->
+</head>
+<body>
+    <header>
+        <h1>High Love Connection</h1>
+        <p>Find your chill mate</p>
+    </header>
+
+    <main>
+        <!-- Your main content goes here -->
+    </main>
+
+    <footer>
+        <p>&copy; 2024 High Love Connection</p>
+    </footer>
+</body>
+</html>
